@@ -25,11 +25,11 @@ def adding
                     }
                     
   shipping_manifest["muskets"] = 2
- puts shipping_manifest
+  shipping_manifest
 
 
   shipping_manifest["gun powder"] = 4
-   puts shipping_manifest
+   shipping_manifest
 end
 
 
